@@ -14,5 +14,5 @@ The server will reply with `{name} at {date and time}, warning: 1m0s, error: 5m0
  
  We aim to make heartbeat monitoring as easy as possible for developers. So we are working on client libraries for most popular programming languages. We currently have these available:
 
-- [bash shell](https://github.com/heartbeat-sh/heartbeat.sh)
-- [javascript](https://www.npmjs.com/package/heartbeat.sh)
+- [Bash Shell](https://github.com/heartbeat-sh/heartbeat.sh)
+- [JavaScript](https://www.npmjs.com/package/heartbeat.sh)
