@@ -8,7 +8,7 @@ You can start sending your heartbeats right away. To send a heartbeat, just send
 ```
 curl -X POST 'https://{subdomain}.heartbeat.sh/beat/{name}'
 ```
-The server will reply with `{name} at {date and time}, warning: 1m0s, error: 5m0s` if everything worked okay. You can then navigate to `https://{subdomain}.heartbeat.sh` to see your heartbeat dashboard. The dashboard will show all your heartbeats and their states.
+The server will reply with your heartbeat in JSON if everything worked okay. You can then navigate to `https://{subdomain}.heartbeat.sh` to see your heartbeat dashboard. The dashboard will show all your heartbeats and their states.
  
  ## Client Libraries
  
