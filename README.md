@@ -17,4 +17,4 @@ For more information, check out our [wiki](https://github.com/heartbeat-sh/docum
  We aim to make heartbeat monitoring as easy as possible for developers. So we are working on client libraries for most popular programming languages. We currently have these available:
 
 - [Bash Shell](https://github.com/heartbeat-sh/heartbeat.sh)
-- [JavaScript](https://www.npmjs.com/package/heartbeat.sh)
+- [JavaScript](https://www.npmjs.com/package/heartbeat-sh)
