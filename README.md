@@ -1,5 +1,5 @@
 # Heartbeat.sh Documentation
-Welcome to [heartbeat.sh](https://heartbeat.sh). The easiest way to set up heartbeat monitoring by far.
+Welcome to [heartbeat.sh](https://heartbeat.sh). The easiest way, by far, to set up your own heartbeat monitoring service.
 
 ## Getting Started
 Create your own heartbeat server at [heartbeat.sh](https://heartbeat.sh). Enter a subdomain for your server, and click on create.
