@@ -18,3 +18,4 @@ For more information, check out our [wiki](https://github.com/heartbeat-sh/docum
 
 - [Bash Shell](https://github.com/heartbeat-sh/heartbeat.sh)
 - [JavaScript](https://www.npmjs.com/package/heartbeat-sh)
+- [Python](https://pypi.org/project/heartbeat-sh/)
