@@ -1,6 +1,9 @@
 # Heartbeat.sh Documentation
 Welcome to [heartbeat.sh](https://heartbeat.sh). The easiest way, by far, to set up your own heartbeat monitoring service.
 
+## Why Heartbeat.sh?
+[Heartbeat.sh](https://heartbeat.sh) is a free [heartbeat monitoring](https://en.wikipedia.org/wiki/Heartbeat_(computing)) tool, for proactively monitoring your servers and processes. Heartbeat monitoring makes it easy to monitor processes, especially ones that run on a cron. To automate operational checks, just send a heartbeat as part of your process. It's that easy!
+
 ## Getting Started
 Create your own heartbeat server at [heartbeat.sh](https://heartbeat.sh). Enter a subdomain for your server, and click on create.
 
@@ -14,7 +17,7 @@ For more information, check out our [wiki](https://github.com/heartbeat-sh/docum
  
  ## Client Libraries
  
- We aim to make heartbeat monitoring as easy as possible for developers. So we are working on client libraries for most popular programming languages. We currently have these available:
+We aim to make heartbeat monitoring as easy as possible for developers. So we are working on client libraries for most popular programming languages. We currently have these available:
 
 - [Bash Shell](https://github.com/heartbeat-sh/heartbeat.sh)
 - [JavaScript](https://www.npmjs.com/package/heartbeat-sh)
