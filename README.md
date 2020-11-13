@@ -13,8 +13,14 @@ curl -X POST 'https://{subdomain}.heartbeat.sh/beat/{name}'
 ```
 The server will reply with your heartbeat in JSON if everything worked okay. You can then navigate to `https://{subdomain}.heartbeat.sh` to see your heartbeat dashboard. The dashboard will show all your heartbeats and their states.
 
+[Heartbeat.sh](https://heartbeat.sh) is great for:
+- [Monitoring Scheduled Tasks](https://github.com/heartbeat-sh/documentation/wiki/Patterns#scheduled-tasks)
+- Automating Daily Checks
+- Checking performance of long running tasks
+- Ensuring that locks (or other resources) get released
+
 For more information, check out our [wiki](https://github.com/heartbeat-sh/documentation/wiki).
- 
+
  ## Client Libraries
  
 We aim to make heartbeat monitoring as easy as possible for developers. So we are working on client libraries for most popular programming languages. We currently have these available:
