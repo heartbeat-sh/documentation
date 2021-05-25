@@ -29,3 +29,9 @@ We aim to make heartbeat monitoring as easy as possible for developers. So we ar
 - [Go](https://github.com/heartbeat-sh/heartbeat.go)
 - [JavaScript](https://www.npmjs.com/package/heartbeat-sh)
 - [Python](https://pypi.org/project/heartbeat-sh/)
+
+### Community Maintained Libraries
+
+These packages were created and are maintained by community developers, who graciously shared them with us. Please note that these libraries are unaffiliated with the heartbeat.sh organisation.
+
+- [Drupal](https://www.drupal.org/project/heartbeat_sh)
