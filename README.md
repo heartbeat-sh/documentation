@@ -1,6 +1,6 @@
 # Have you been blocked recently?
 
-Please contact [[admin@heartbeat.sh]] to discuss possible limits and/or abusive ping timeouts.
+Please contact admin@heartbeat.sh to discuss possible limits and/or abusive ping timeouts.
 
 # Heartbeat.sh Documentation
 Welcome to [heartbeat.sh](https://heartbeat.sh). The easiest way, by far, to set up your own heartbeat monitoring service.
